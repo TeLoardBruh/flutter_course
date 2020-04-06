@@ -16,4 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-![End Banner](https://github.com/TeLoardBruh/flutter_course/blob/master/code/quizes_app/images/app_home.png)
+This is what ther interface look like
+
+[End Banner](https://github.com/TeLoardBruh/flutter_course/blob/master/code/quizes_app/images/app_home.png)
