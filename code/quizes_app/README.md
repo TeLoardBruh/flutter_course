@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-[Image:For App Home][./images/app_home.png]
+[Image:For App Home](https://github.com/TeLoardBruh/flutter_course/blob/master/code/quizes_app/images/app_home.png)
