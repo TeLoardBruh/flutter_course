@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 
 This is what ther interface look like
 
-[End Banner](https://github.com/TeLoardBruh/flutter_course/blob/master/code/quizes_app/images/app_home.png)
+![End Banner](https://github.com/TeLoardBruh/flutter_course/blob/master/code/quizes_app/images/app_home.png)
