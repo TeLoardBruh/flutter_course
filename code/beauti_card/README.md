@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+App interface
+![End Banner](https://github.com/TeLoardBruh/flutter_course/blob/master/code/beauti_card/images/Screen%20Shot%202020-04-07%20at%2012.05.56%20AM.png)
