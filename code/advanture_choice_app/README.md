@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 [App View]
-![End Banner](https://github.com/TeLoardBruh/flutter_course/blob/master/code/advanture_choice_app/images/Screen%20Shot%202020-04-07%20at%205.18.26%20PM.png)
+![End Banner](https://github.com/TeLoardBruh/flutter_course/blob/master/code/advanture_choice_app/images/app_view.png)
