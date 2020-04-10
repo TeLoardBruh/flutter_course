@@ -1,0 +1,20 @@
+  // Color maleCardColor = inActiveCardColor;
+  // Color femalMaleCardColor = inActiveCardColor;
+
+  // // check which user click on
+
+  // void updateColour(Gender gender) {
+  //   if (gender == Gender.male) {
+  //     if (maleCardColor == inActiveCardColor) {
+  //       maleCardColor = colorCard;
+  //     } else {
+  //       maleCardColor = inActiveCardColor;
+  //     }
+  //   } else {
+  //     if (gender == Gender.female) {
+  //       femalMaleCardColor = colorCard;
+  //     } else {
+  //       femalMaleCardColor = inActiveCardColor;
+  //     }
+  //   }
+  // }
